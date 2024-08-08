@@ -1,6 +1,6 @@
 # Chat with PDF using Gemini 💁
 
-
+![image](https://github.com/user-attachments/assets/9b0b4043-80e5-47db-8968-6fa0186da503)
 
 This project is a Streamlit application that allows users to upload multiple PDF files, ask questions based on their content, and generate summaries for selected PDFs. The app leverages Google's Generative AI models, FAISS for vector search, and Sumy for text summarization.
 
